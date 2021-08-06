@@ -14,8 +14,6 @@ export default function Layout({ children }) {
           body {
             padding: 0;
             margin: 0;
-            font-family: system-ui, -apple-system, BlinkMacSystemFont,
-              "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif;
           }
           * {
             box-sizing: border-box;
@@ -35,6 +33,8 @@ export default function Layout({ children }) {
             display: flex;
             flex-direction: column;
             align-items: center;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont,
+              "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif;
           }
         `}
       </style>
