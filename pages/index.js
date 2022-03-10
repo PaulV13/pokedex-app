@@ -293,7 +293,7 @@ export default function Home({ pokemones, next, previous }) {
         }
         .buttons {
           display: flex;
-          margin: 50px 0;
+          margin: 30px 0;
         }
         .card {
           margin: 1rem;

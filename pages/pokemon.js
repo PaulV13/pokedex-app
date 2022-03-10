@@ -161,7 +161,7 @@ export default function pokemon({ pokeman }) {
             height: 5px;
           }
           .title {
-            margin: 30px 0 0 0;
+            margin: 20px 0 0 0;
             color: #690505;
           }
           a {
@@ -188,7 +188,7 @@ export default function pokemon({ pokeman }) {
           .card {
             margin: 1rem;
             flex-basis: 45%;
-            padding: 1.5rem;
+            padding: 1rem;
             color: black;
             text-decoration: none;
             border: 2px solid #000;
@@ -198,7 +198,7 @@ export default function pokemon({ pokeman }) {
             width: 450px;
           }
           .card-top h1 {
-            margin: 0 0 1rem 0;
+            margin: 0 0 0.5rem 0;
             font-size: 24px;
           }
           .card-top p {
@@ -209,7 +209,7 @@ export default function pokemon({ pokeman }) {
           }
           .card img {
             margin-top: 10px;
-            width: 250px;
+            width: 130px;
             border-radius: 10px;
           }
           .card-info h2 {
